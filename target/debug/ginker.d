@@ -1,0 +1,1 @@
+/home/ginkoe/Project/f/cli/rs/ginker/target/debug/ginker: /home/ginkoe/Project/f/cli/rs/ginker/src/app.rs /home/ginkoe/Project/f/cli/rs/ginker/src/core.rs /home/ginkoe/Project/f/cli/rs/ginker/src/main.rs
